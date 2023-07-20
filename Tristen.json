@@ -1,0 +1,153 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/sprite sheet Tristen.png",
+    "baseName": "sprite sheet Tristen.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 3862,
+      "height": 3006,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 46436688,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.8297,
+        "median": 0,
+        "standardDeviation": 20645.6,
+        "kurtosis": 2.00305,
+        "skewness": 1.93289,
+        "entropy": 0.211076
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 60.36,
+        "median": 0,
+        "standardDeviation": 27474.9,
+        "kurtosis": -0.423063,
+        "skewness": 1.24425,
+        "entropy": 0.153549
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 41.6534,
+        "median": 0,
+        "standardDeviation": 21951.3,
+        "kurtosis": 1.51307,
+        "skewness": 1.78991,
+        "entropy": 0.242612
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.449,
+        "median": 0,
+        "standardDeviation": 20856.1,
+        "kurtosis": 2.07062,
+        "skewness": 1.9137,
+        "entropy": 0.244974
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 14.8563,
+        "median": 0,
+        "standardDeviation": 12300,
+        "kurtosis": 13.3665,
+        "skewness": 3.68164,
+        "entropy": 0.203171
+      }
+    },
+    "alpha": "#00000000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.45455,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 3862,
+      "height": 3006,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2023-07-16T02:07:43+00:00",
+      "date:modify": "2023-07-16T02:07:43+00:00",
+      "exif:ColorSpace": "1",
+      "exif:ExifOffset": "26",
+      "exif:PixelXDimension": "3862",
+      "exif:PixelYDimension": "3006",
+      "png:cHRM": "chunk was found (see Chromaticity, above)",
+      "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "3862, 3006",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "signature": "3229cd8e75a183bddf9cd79d7944d682e9a4f060ed0abcd88eb25c4027ac6e81"
+    },
+    "profiles": {
+      "exif": {
+        "length": 74
+      }
+    },
+    "tainted": false,
+    "filesize": "1.59397MB",
+    "numberPixels": "11.6092M",
+    "pixelsPerSecond": "14.386MB",
+    "userTime": "1.260u",
+    "elapsedTime": "0:01.806",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
